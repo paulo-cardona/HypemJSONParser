@@ -1,0 +1,7 @@
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\DataAccess\bin\Debug\DataAccess.dll
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\DataAccess\bin\Debug\Newtonsoft.Json.dll
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\DataAccess\bin\Debug\Newtonsoft.Json.xml
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\DataAccess\obj\Debug\DataAccess.dll
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\DataAccess\obj\Debug\DataAccess.pdb

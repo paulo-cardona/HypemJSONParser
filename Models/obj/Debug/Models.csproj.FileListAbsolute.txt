@@ -1,0 +1,7 @@
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\Models\bin\Debug\Models.dll
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\Models\bin\Debug\Models.pdb
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\Models\obj\Debug\Models.dll
+c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\Models\obj\Debug\Models.pdb
+C:\Users\PAULO\Documents\Visual Studio 2013\Projects\ParseHypemJsonWPF\Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PAULO\Documents\Visual Studio 2013\Projects\ParseHypemJsonWPF\Models\bin\Debug\Newtonsoft.Json.xml
