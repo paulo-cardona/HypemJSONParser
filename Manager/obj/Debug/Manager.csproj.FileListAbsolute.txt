@@ -9,3 +9,14 @@ c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\Manager\b
 c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
 c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\Manager\obj\Debug\Manager.dll
 c:\users\paulo\documents\visual studio 2013\Projects\ParseHypemJsonWPF\Manager\obj\Debug\Manager.pdb
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\bin\Debug\Manager.dll
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\bin\Debug\Manager.pdb
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\bin\Debug\DataAccess.dll
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\bin\Debug\Models.dll
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\bin\Debug\Newtonsoft.Json.dll
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\bin\Debug\DataAccess.pdb
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\bin\Debug\Models.pdb
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\bin\Debug\Newtonsoft.Json.xml
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\obj\Debug\Manager.dll
+C:\pcardona\HypemJSON\HypemJSONParser\Manager\obj\Debug\Manager.pdb

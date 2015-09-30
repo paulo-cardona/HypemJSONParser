@@ -19,7 +19,6 @@ namespace ParseHypemJsonWPF
         private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
         {
             _manager.CreateBatchFile();
-
         }
     }
 }
